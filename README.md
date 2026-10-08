@@ -10,7 +10,6 @@
 ### Body POST
 ```json
 {
-  "id": 1,
   "title": "Título",
   "description": "Descrição"
 }
